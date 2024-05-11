@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="intro_text">Watch Videos in\nVirtual Reality</string>
+    <string name="intro_text_2">Download and watch offline\nwherever you are</string>
+    <string name="movie_story">An encounter between two lonely strangers.
+        An older woman and a younger man spend an awkward evening together after meeting on a dating app.</string>
+</resources>
